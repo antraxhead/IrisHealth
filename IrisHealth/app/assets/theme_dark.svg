@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <defs>
+    <linearGradient id="glacialMoonGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+  </defs>
+  <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z" 
+        fill="url(#glacialMoonGrad)" 
+        stroke="#BAE6FD" 
+        stroke-width="1.5" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  <circle cx="17.5" cy="5.5" r="1" fill="#BAE6FD"/>
+  <circle cx="20.5" cy="9.5" r="0.75" fill="#38BDF8"/>
+</svg>
